@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 00;
+}
+
+.main-container{
+
+    border: 9px solid orange;
+    box-sizing: border-box;
+
+}
+
+.main-container img{
+
+    max-width: 100%;
+    height: auto;
+}
+
